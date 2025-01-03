@@ -1,0 +1,2 @@
+# HOME_AUTOMATION_NRF24_LORA
+Home Automation with NRF24L01 and LORA
